@@ -79,9 +79,6 @@ Time: 3.75 h
 
 ¡Las contribuciones son bienvenidas! Por favor, haz un fork del repositorio y crea una pull request con tus cambios. Asegúrate de que tu código siga el estilo existente e incluye mensajes de commit detallados.
 
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Agradecimientos
 
